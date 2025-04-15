@@ -1,0 +1,101 @@
+ID,Promo,École,Emploi trouvé,Délai (mois),Satisfaction (/5),Salaire (€),Secteur
+1,2022,Finance,Oui,3.4,4.5,26500.0,Sportif
+2,2023,Finance,Oui,1.1,4.6,35800.0,Sportif
+3,2020,Marketing,Non,,4.1,,
+4,2022,Finance,Oui,3.1,4.6,19700.0,Conseil
+5,2022,Finance,Oui,3.5,4.1,32300.0,Conseil
+6,2023,Intelligence Éco,Oui,1.5,3.0,27800.0,Conseil
+7,2020,Marketing,Oui,3.0,3.2,38800.0,Tech
+8,2020,Intelligence Éco,Oui,3.4,3.0,30600.0,Luxe
+9,2022,Intelligence Éco,Oui,2.9,3.4,32200.0,Tech
+10,2021,Marketing,Oui,3.9,2.6,33900.0,Luxe
+11,2022,Commerce,Oui,4.3,4.0,30700.0,Conseil
+12,2022,Intelligence Éco,Oui,1.7,3.3,31500.0,Conseil
+13,2022,Sport,Oui,3.9,4.1,36200.0,Tech
+14,2022,Sport,Oui,3.4,3.5,26700.0,Tech
+15,2023,Finance,Oui,3.0,4.2,28500.0,Luxe
+16,2020,Sport,Oui,1.4,3.4,27200.0,Sportif
+17,2023,Finance,Oui,4.5,3.2,39200.0,Luxe
+18,2023,Commerce,Oui,3.4,3.7,28500.0,Tech
+19,2023,Marketing,Oui,1.2,4.2,31300.0,Marketing
+20,2022,Marketing,Oui,2.8,3.4,29000.0,Tech
+21,2021,Marketing,Oui,3.3,4.8,30500.0,Marketing
+22,2020,Sport,Oui,3.5,2.6,28300.0,Banque
+23,2021,Commerce,Oui,2.9,3.5,34300.0,Tech
+24,2023,Sport,Oui,3.3,4.9,26800.0,Banque
+25,2023,Sport,Non,,3.9,,
+26,2021,Commerce,Oui,4.5,3.6,29200.0,Luxe
+27,2021,Commerce,Non,,3.9,,
+28,2021,Commerce,Oui,2.4,3.9,25300.0,Luxe
+29,2023,Commerce,Oui,2.9,4.3,30400.0,Banque
+30,2023,Marketing,Oui,1.3,2.8,23700.0,Marketing
+31,2020,Luxe,Oui,1.7,3.1,40600.0,Luxe
+32,2020,Luxe,Oui,1.4,4.0,24500.0,Tech
+33,2023,Commerce,Oui,1.9,4.7,28800.0,Conseil
+34,2021,Luxe,Oui,4.4,3.9,30000.0,Banque
+35,2021,Luxe,Oui,2.1,3.1,40400.0,Luxe
+36,2020,Commerce,Oui,2.0,4.2,23300.0,Banque
+37,2023,Luxe,Oui,3.9,4.3,32700.0,Public
+38,2020,Sport,Oui,2.6,3.1,37200.0,Banque
+39,2020,Finance,Oui,3.4,3.4,30500.0,Marketing
+40,2022,Finance,Non,,3.8,,
+41,2022,Commerce,Oui,1.2,3.7,31500.0,Marketing
+42,2022,Marketing,Non,,3.5,,
+43,2021,Commerce,Oui,1.4,3.2,28900.0,Public
+44,2023,Marketing,Non,,2.7,,
+45,2023,Finance,Oui,2.3,2.6,33300.0,Banque
+46,2023,Commerce,Oui,3.2,4.9,38200.0,Luxe
+47,2023,Intelligence Éco,Oui,2.4,4.6,33100.0,Sportif
+48,2022,Sport,Oui,2.9,3.4,29600.0,Banque
+49,2021,Luxe,Non,,4.9,,
+50,2021,Marketing,Oui,5.0,4.2,33100.0,Conseil
+51,2022,Intelligence Éco,Oui,1.8,3.7,32800.0,Tech
+52,2021,Luxe,Oui,4.2,3.7,36000.0,Sportif
+53,2022,Luxe,Non,,2.7,,
+54,2023,Commerce,Oui,3.1,2.7,36100.0,Public
+55,2022,Luxe,Oui,3.4,4.0,25200.0,Public
+56,2023,Sport,Non,,3.9,,
+57,2023,Intelligence Éco,Oui,4.0,3.0,28700.0,Marketing
+58,2020,Luxe,Oui,2.5,4.9,28100.0,Luxe
+59,2022,Commerce,Non,,4.5,,
+60,2020,Sport,Oui,2.8,2.8,28600.0,Public
+61,2022,Finance,Oui,2.6,4.8,33700.0,Marketing
+62,2022,Intelligence Éco,Oui,1.7,4.9,34500.0,Luxe
+63,2020,Luxe,Oui,2.2,5.0,32000.0,Tech
+64,2020,Commerce,Oui,3.4,2.6,29900.0,Luxe
+65,2022,Finance,Oui,1.7,4.3,38400.0,Marketing
+66,2021,Finance,Oui,1.0,3.9,31500.0,Conseil
+67,2023,Marketing,Non,,4.3,,
+68,2020,Sport,Oui,3.8,4.9,29200.0,Public
+69,2023,Luxe,Oui,4.8,4.2,34100.0,Conseil
+70,2021,Commerce,Non,,4.6,,
+71,2021,Marketing,Non,,4.7,,
+72,2021,Sport,Oui,2.7,4.6,28700.0,Marketing
+73,2020,Marketing,Non,,3.6,,
+74,2021,Intelligence Éco,Oui,3.6,3.1,38100.0,Public
+75,2020,Sport,Oui,5.1,3.5,33000.0,Sportif
+76,2021,Sport,Oui,3.2,4.7,32200.0,Tech
+77,2023,Luxe,Non,,2.9,,
+78,2023,Sport,Non,,3.8,,
+79,2022,Marketing,Oui,3.1,3.1,27700.0,Marketing
+80,2023,Sport,Non,,4.0,,
+81,2022,Luxe,Non,,4.7,,
+82,2023,Luxe,Non,,4.7,,
+83,2020,Intelligence Éco,Oui,2.7,3.1,36300.0,Banque
+84,2023,Marketing,Oui,2.4,4.8,31500.0,Public
+85,2022,Finance,Oui,2.5,4.0,33100.0,Tech
+86,2022,Finance,Oui,4.1,3.4,22600.0,Sportif
+87,2021,Sport,Non,,4.3,,
+88,2020,Intelligence Éco,Non,,3.7,,
+89,2023,Commerce,Oui,2.7,3.4,38100.0,Banque
+90,2021,Sport,Oui,3.5,4.3,31300.0,Banque
+91,2023,Intelligence Éco,Oui,6.2,3.1,32600.0,Public
+92,2023,Marketing,Oui,3.1,3.3,29600.0,Marketing
+93,2021,Marketing,Non,,3.6,,
+94,2021,Marketing,Oui,4.5,3.1,29000.0,Marketing
+95,2021,Marketing,Oui,3.3,3.5,22900.0,Sportif
+96,2021,Marketing,Oui,3.9,3.9,36600.0,Banque
+97,2021,Intelligence Éco,Oui,3.6,4.4,21100.0,Banque
+98,2023,Intelligence Éco,Oui,4.0,4.4,42200.0,Tech
+99,2021,Luxe,Oui,2.0,4.6,23200.0,Sportif
+100,2020,Finance,Oui,3.2,4.4,39500.0,Banque
